@@ -14,15 +14,15 @@ I have a huge amount of necessary skills: The qualification level Middle, work w
 <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="python" alt="python" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"  title="Java" alt="sqlite"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"  title="Vue.js" alt="sqlite"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40"  title="pycharm" alt="sqlite"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" width="40" height="40" alt="postgresql"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="python" alt="python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"  title="Java"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"  title="Vue.js"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40"  title="pycharm"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="postgresql" width="40" height="40" alt="postgresql"/>
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="sqlite" /></a>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"  title="Mysql" alt="sqlite"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="40" height="40" title="docker" alt="docker"/>&nbsp
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"  title="Mysql" alt="sqlite"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" width="40" height="40" title="docker" alt="docker"/>
 </div>
 <br>
 
