@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/58F3I3toCjPDcycntX/giphy.gif" width="1000" height="200"><br>
 
-<img src="https://media.giphy.com/media/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width="80" height="80">I'm Alex, I'm 18 years old<img src="https://media.giphy.com/media/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width="80" height="80">
+<img src="https://media.giphy.com/media/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width="80" height="80">I'm Alex<img src="https://media.giphy.com/media/NJRnk63JCZ4BvCi6ZQ/giphy.gif" width="80" height="80">
 -----------------------------------------------------------------------------------------
 
 
